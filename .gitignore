@@ -1,5 +1,3 @@
-*
-!.gitignore
-!index.js
-!templates/
-!dev-data
+node_modules/
+txt/
+package*
